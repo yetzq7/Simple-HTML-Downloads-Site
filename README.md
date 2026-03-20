@@ -2,7 +2,8 @@
 ---------------
 ## Express
 
-**How to install:**
+**How to install**
+Run this in a cmd prompt in the folder:
 
     npm init -y
     npm install express
