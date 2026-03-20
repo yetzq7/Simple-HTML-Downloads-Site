@@ -16,4 +16,6 @@ Make a folder named "files" inside the same folder all these files are in
 
 place your files inside there and place their names and file type in index.html
 
-**Example: a href="/files/file1.filetype">Download 1</a>**
+**Example: 
+
+    a href="/files/file1.filetype">Download 1</a>
